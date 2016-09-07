@@ -1,0 +1,6 @@
+[package]
+name = "fermi2"
+version = "0.1.0"
+authors = ["John Steidley <johnsteidley@gmail.com>"]
+
+[dependencies]
