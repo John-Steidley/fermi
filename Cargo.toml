@@ -1,5 +1,5 @@
 [package]
-name = "fermi2"
+name = "fermi"
 version = "0.1.0"
 authors = ["John Steidley <johnsteidley@gmail.com>"]
 
